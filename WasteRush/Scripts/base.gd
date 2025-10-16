@@ -1,6 +1,6 @@
 class_name  StageBase
 extends Node2D
-
+#Special Thanks to Bob-Kerman For Help With The Bananas
 
 
 @export var zoom: Vector2 = Vector2(Globals.CamZoom,Globals.CamZoom)
